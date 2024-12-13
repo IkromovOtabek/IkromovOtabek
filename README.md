@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IkromovOtabek
 - 👀 I’m interested in IT programming      
-- 🌱 I’m currently learning Flutter and Python
-- 💞️ I’m looking to collaborate on intermediate Python and Flutter
+- 🌱 I’m currently learning Python Django and Python
+- 💞️ I’m looking to collaborate on intermediate Python and Python Django
 - 📫 How to reach me otabekikromov32@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: I'm study at Daegu University Republic of Korea.
